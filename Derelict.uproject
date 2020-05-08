@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{BCC6D9CB-423D-AE85-3F07-34ADF90708C1}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Derelict",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
